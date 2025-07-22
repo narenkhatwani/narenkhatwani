@@ -32,8 +32,12 @@
 
 ![Naren's GitHub stats](https://github-readme-stats.vercel.app/api?username=narenkhatwani&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
 
+
+
 My Favorite Question
 
 “Where do you see yourself in your career down the line?”
 
 Honestly, I don’t know. I do know I love research, so I picture myself deep in somewhere, researching a topic that I am passionate about. But truth be told, I don’t even know what I’m having for dinner tomorrow night (unless my calendar says its a VadaPav from Ambar Vadapav in Kalyan, Maharashtra, India), so predicting the next 5-6 years? That’s a plot twist I’m not ready for!
+
+![joke.png](https://github.com/narenkhatwani/gce-events-details/blob/main/joke.png?raw=true)
