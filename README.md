@@ -27,12 +27,6 @@
 <a href="https://discord.gg/sAD2XajWjS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sAD2XajWjS" height="30" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&hide=Jupyter%20Notebook&layout=pie)
-
-![Naren's GitHub stats](https://github-readme-stats.vercel.app/api?username=narenkhatwani&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
-
-
-
 My Favorite Question
 
 “Where do you see yourself in your career down the line?”
